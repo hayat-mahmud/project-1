@@ -92,6 +92,8 @@ button
     height: fit-content;
     width: fit-content;
 }
+   button a{
+      text decoration: none;
 
 a {
     color: rgb(0, 0, 3);
